@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Stackoverflow",
+    "slug": "Stackoverflow-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/meme.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.hieudeptrai.stackoverflow.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/meme.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "usesCleartextTraffic": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7b45db8c-b356-494c-80b2-66c3bbf58df4"
+      }
+    }
+  }
+}
