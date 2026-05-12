@@ -273,3 +273,6 @@ Stackoverflow-app/
 
 ## Link deploy
 https://expo.dev/accounts/minhhieu86/projects/Stackoverflow-app/builds/558961f2-2329-4547-8757-5353bc957d2e
+
+## Link video demo
+https://drive.google.com/file/d/1HfwYp-sc1ncM-MI2XwLaeE18cP1hUitz/view?usp=drive_link

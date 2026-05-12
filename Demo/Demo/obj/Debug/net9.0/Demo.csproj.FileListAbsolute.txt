@@ -258,3 +258,4 @@ C:\laptrinh\backend\Stackoverflow-App\Demo\demo\bin\Debug\net9.0\runtimes\win\li
 C:\laptrinh\backend\Stackoverflow-App\Demo\demo\obj\Debug\net9.0\Demo.csproj.Up2Date
 C:\laptrinh\backend\Stackoverflow-App\Demo\demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
 C:\laptrinh\backend\Stackoverflow-App\Demo\demo\obj\Debug\net9.0\ref\Demo.dll
+C:\laptrinh\backend\Stackoverflow-App\demo\demo\obj\Debug\net9.0\Demo.sourcelink.json
